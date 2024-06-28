@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TarjetaPresentacionCompose</string>
+    <string name="nombre">Hector Aquiles Lopez Garcia</string>
+    <string name="profesion">Desarrollador Android</string>
+    <string name="telefono">961-154-3308</string>
+    <string name="contacto">Makore1762</string>
+    <string name="email">hectoraquiles1762@gmail.com</string>
+</resources>
